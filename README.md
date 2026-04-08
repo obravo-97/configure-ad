@@ -116,10 +116,6 @@ After reboot, DC-01 is now a domain controller.
 
 <img width="940" height="662" alt="image" src="https://github.com/user-attachments/assets/89b89117-d4bd-4242-96f8-a78df13bd130" />
 
-> A small number of users is sufficient to demonstrate directory structure, group membership, and policy application without unnecessary complexity.
-
-Default Active Directory containers are left intact, as they are system-managed and required for proper domain functionality. Custom Organizational Units are used instead to model enterprise directory structure and management practices.
-
 ---
 
 ## 5) Configure Client DNS and Join the Domain
