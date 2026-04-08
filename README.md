@@ -154,6 +154,17 @@ After reboot:
 
 ---
 
+## Outcome
+
+At the conclusion of this lab:
+
+- Active Directory is deployed and functional in Azure
+- Domain services mirror traditional on-prem environments
+- Users and clients authenticate against the domain
+- Core identity infrastructure concepts are demonstrated
+
+---
+
 ## Final Notes
 
 This lab demonstrates practical understanding of:
