@@ -45,7 +45,6 @@ Create two Azure virtual machines.
 - Name: CLIENT-01
 - Virtual Network: Select the existing Virtual Network created with DC-01
 
-> When creating the client machine, ensure it is placed in the same Virtual Network and subnet as the domain controller.
 
 Both virtual machines must reside on the same virtual network to allow proper Active Directory domain communication.
 
